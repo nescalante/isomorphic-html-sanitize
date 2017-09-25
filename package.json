@@ -1,0 +1,21 @@
+{
+  "name": "isomorphic-html-sanitize",
+  "version": "0.1.0",
+  "description": "Isomorphic HTML sanitizer, for Node & the browser",
+  "browser": "client/sanitize.js",
+  "main": "server/sanitize.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nescalante/isomorphic-html-sanitize.git"
+  },
+  "author": "Nicolas Escalante <nlante@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nescalante/isomorphic-html-sanitize/issues"
+  },
+  "homepage": "https://github.com/nescalante/isomorphic-html-sanitize/issues",
+  "dependencies": {
+    "htmlsanitize": "^0.1.8",
+    "sanitize-html": "^1.14.1"
+  }
+}
