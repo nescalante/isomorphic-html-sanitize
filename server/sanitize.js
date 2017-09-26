@@ -14,5 +14,5 @@ var config = {
 };
 
 module.exports = function (html) {
-  return sanitize(html config);
+  return sanitize(html, config);
 };
