@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/nescalante/isomorphic-html-sanitize.git"
   },
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
   "author": "Nicolas Escalante <nlante@gmail.com>",
   "license": "MIT",
   "bugs": {
