@@ -5,7 +5,7 @@ var config = {
     'caption', 'tbody', 'tr', 'th', 'td', 'pre', 'img'],
   allowedAttributes: {
     a: ['href', 'title'],
-    img: ['src', 'alt']
+    img: ['src', 'alt', 'width']
   },
   selfClosing: ['img', 'br', 'hr'],
   allowedSchemes: ['http', 'https', 'ftp', 'mailto'],
