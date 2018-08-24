@@ -19,6 +19,6 @@
   "homepage": "https://github.com/nescalante/isomorphic-html-sanitize/issues",
   "dependencies": {
     "htmlsanitize": "^0.1.15",
-    "sanitize-html": "^1.14.1"
+    "sanitize-html": "^1.18.4"
   }
 }
