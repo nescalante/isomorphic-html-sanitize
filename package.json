@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-html-sanitize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Isomorphic HTML sanitizer, for Node & the browser",
   "browser": "client/sanitize.js",
   "main": "server/sanitize.js",
